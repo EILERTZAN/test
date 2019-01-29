@@ -1,0 +1,31 @@
+body {
+	background-color: aqua;
+}
+
+h1 {
+	color: shadow;
+	text-align: center;
+	font-family: "impact", charcoal, sans-serif;
+	}
+	
+img{
+	width: 30%;
+}
+#text
+{
+	background-color: black;
+	color: white;
+}
+#list
+{
+	color: red;
+}
+#verden
+{
+	color: green;
+}
+#hej
+{
+	color: #333300;
+}
+
